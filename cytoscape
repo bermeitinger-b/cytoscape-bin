@@ -1,3 +1,4 @@
 #!/bin/sh
 
+export JAVA_HOME=/usr/lib/jvm/java-8-openjdk/jre
 /opt/cytoscape/cytoscape.sh $@
